@@ -1,4 +1,9 @@
-Removi isto
+Este é o exemplo de um ficheiro de texto file3
 
+<h2>Bebidas</h2>
 
-Adicionei isto aqui
+<ul>
+  <li>Coffe</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
