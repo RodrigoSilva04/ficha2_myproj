@@ -1,9 +1,23 @@
+<<<<<<< HEAD
 Este é o exemplo de um ficheiro de texto file3
+=======
+<h1>Lista de coisas</h1>
+>>>>>>> novafeature
 
 <h2>Bebidas</h2>
 
+<<<<<<< HEAD
 <ul>
   <li>Coffe</li>
   <li>Tea</li>
   <li>Milk</li>
+=======
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+>>>>>>> novafeature
 </ul>
